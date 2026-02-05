@@ -47,7 +47,7 @@ The overall pipeline includes:
 **Public Leaderboard Score:** **11.1**
 
 ### 🔍 Score Preview
-![Kaggle Score](kaggle_score.png)
+![Kaggle Score](Kaggle_Score.png)
 
 > Screenshot taken from the Kaggle public leaderboard after successful submission.
 
